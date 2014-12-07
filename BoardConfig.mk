@@ -28,3 +28,5 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2vzw,d2lte
+
+LIQUIFY=true
